@@ -1,0 +1,126 @@
+{
+    "area_masks": [
+        "/images/mask_100.png",
+        "/images/mask_101.png",
+        "/images/mask_102.png",
+        "/images/mask_103.png",
+        "/images/mask_104.png",
+        "/images/mask_105.png",
+        "/images/mask_106.png",
+        "/images/mask_107.png",
+        "/images/mask_108.png",
+        "/images/mask_109.png",
+        "/images/mask_110.png",
+        "/images/mask_111.png",
+        "/images/mask_112.png",
+        "/images/mask_113.png",
+        "/images/mask_114.png",
+        "/images/mask_115.png",
+        "/images/mask_116.png",
+        "/images/mask_117.png",
+        "/images/mask_118.png",
+        "/images/mask_119.png",
+        "/images/mask_120.png",
+        "/images/mask_121.png",
+        "/images/mask_122.png",
+        "/images/mask_123.png",
+        "/images/mask_124.png",
+        "/images/mask_125.png",
+        "/images/mask_126.png"
+    ],
+    "constraints": {
+        "max_drop_rate": 0.1,
+        "max_drop_rate_bump": 0.2,
+        "max_segment_num": 64,
+        "max_streamline_num": 262144,
+        "max_texture_size": 4096
+    },
+    "extent": [
+        -2734181.153991986,
+        4727600.767034907,
+        -2865155.468768214,
+        4588963.522663449
+    ],
+    "flow_boundary": {
+        "u_max": 2.3461,
+        "u_min": -2.1176,
+        "v_max": 2.0175,
+        "v_min": -1.8959
+    },
+    "flow_fields": [
+        "/images/uv_100.png",
+        "/images/uv_101.png",
+        "/images/uv_102.png",
+        "/images/uv_103.png",
+        "/images/uv_104.png",
+        "/images/uv_105.png",
+        "/images/uv_106.png",
+        "/images/uv_107.png",
+        "/images/uv_108.png",
+        "/images/uv_109.png",
+        "/images/uv_110.png",
+        "/images/uv_111.png",
+        "/images/uv_112.png",
+        "/images/uv_113.png",
+        "/images/uv_114.png",
+        "/images/uv_115.png",
+        "/images/uv_116.png",
+        "/images/uv_117.png",
+        "/images/uv_118.png",
+        "/images/uv_119.png",
+        "/images/uv_120.png",
+        "/images/uv_121.png",
+        "/images/uv_122.png",
+        "/images/uv_123.png",
+        "/images/uv_124.png",
+        "/images/uv_125.png",
+        "/images/uv_126.png"
+    ],
+    "projection": [
+        "/images/projection_mapbox.png",
+        "/images/projection_cesium.png"
+    ],
+    "texture_size": {
+        "area_mask": [
+            1024,
+            558
+        ],
+        "flow_field": [
+            1024,
+            558
+        ],
+        "projection": [
+            1024,
+            2048
+        ]
+    },
+    "valid_address": [
+        "/images/valid_100.png",
+        "/images/valid_101.png",
+        "/images/valid_102.png",
+        "/images/valid_103.png",
+        "/images/valid_104.png",
+        "/images/valid_105.png",
+        "/images/valid_106.png",
+        "/images/valid_107.png",
+        "/images/valid_108.png",
+        "/images/valid_109.png",
+        "/images/valid_110.png",
+        "/images/valid_111.png",
+        "/images/valid_112.png",
+        "/images/valid_113.png",
+        "/images/valid_114.png",
+        "/images/valid_115.png",
+        "/images/valid_116.png",
+        "/images/valid_117.png",
+        "/images/valid_118.png",
+        "/images/valid_119.png",
+        "/images/valid_120.png",
+        "/images/valid_121.png",
+        "/images/valid_122.png",
+        "/images/valid_123.png",
+        "/images/valid_124.png",
+        "/images/valid_125.png",
+        "/images/valid_126.png"
+    ]
+}

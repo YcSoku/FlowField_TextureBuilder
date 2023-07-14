@@ -1,0 +1,125 @@
+{
+    "input_url": "resource/data/",
+    "output_url": "resource/result/",
+    "column_num": 6,
+    "headings": ["x", "y", "p", "h", "u", "v", "", "", ""],
+    "coordinates": ["x", "y"],
+    "velocities": ["u", "v"],
+    "attribute": "",
+    "boundary": [505900, 3465440, 679850, 3551040],
+    "resolution": 1024,
+    "outlier": -99999.0,
+    "vector_mask": "shp/bjm_1998.shp",
+    "source_space": "2437",
+    "target_space": ["mapbox", "cesium"],
+    "files": [
+        {
+            "in": "100-XY-UVZH.txt",
+            "sn": "100"
+        },
+        {
+            "in": "101-XY-UVZH.txt",
+            "sn": "101"
+        },
+        {
+            "in": "102-XY-UVZH.txt",
+            "sn": "102"
+        },
+        {
+            "in": "103-XY-UVZH.txt",
+            "sn": "103"
+        },
+        {
+            "in": "104-XY-UVZH.txt",
+            "sn": "104"
+        },
+        {
+            "in": "105-XY-UVZH.txt",
+            "sn": "105"
+        },
+        {
+            "in": "106-XY-UVZH.txt",
+            "sn": "106"
+        },
+        {
+            "in": "107-XY-UVZH.txt",
+            "sn": "107"
+        },
+        {
+            "in": "108-XY-UVZH.txt",
+            "sn": "108"
+        },
+        {
+            "in": "109-XY-UVZH.txt",
+            "sn": "109"
+        },
+        {
+            "in": "110-XY-UVZH.txt",
+            "sn": "110"
+        },
+        {
+            "in": "111-XY-UVZH.txt",
+            "sn": "111"
+        },
+        {
+            "in": "112-XY-UVZH.txt",
+            "sn": "112"
+        },
+        {
+            "in": "113-XY-UVZH.txt",
+            "sn": "113"
+        },
+        {
+            "in": "114-XY-UVZH.txt",
+            "sn": "114"
+        },
+        {
+            "in": "115-XY-UVZH.txt",
+            "sn": "115"
+        },
+        {
+            "in": "116-XY-UVZH.txt",
+            "sn": "116"
+        },
+        {
+            "in": "117-XY-UVZH.txt",
+            "sn": "117"
+        },
+        {
+            "in": "118-XY-UVZH.txt",
+            "sn": "118"
+        },
+        {
+            "in": "119-XY-UVZH.txt",
+            "sn": "119"
+        },
+        {
+            "in": "120-XY-UVZH.txt",
+            "sn": "120"
+        },
+        {
+            "in": "121-XY-UVZH.txt",
+            "sn": "121"
+        },
+        {
+            "in": "122-XY-UVZH.txt",
+            "sn": "122"
+        },
+        {
+            "in": "123-XY-UVZH.txt",
+            "sn": "123"
+        },
+        {
+            "in": "124-XY-UVZH.txt",
+            "sn": "124"
+        },
+        {
+            "in": "125-XY-UVZH.txt",
+            "sn": "125"
+        },
+        {
+            "in": "126-XY-UVZH.txt",
+            "sn": "126"
+        }
+    ]
+}

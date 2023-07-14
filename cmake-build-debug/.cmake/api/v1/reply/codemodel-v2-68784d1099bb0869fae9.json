@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "thirdparty/json",
+					"jsonFile" : "directory-thirdparty.json-Debug-453f9b0d120393948d3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "thirdparty/json"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FlowField_TextureBuilder",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FlowField_TextureBuilder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FlowField_TextureBuilder-Debug-0d4a25a8f9c9e34ef1cb.json",
+					"name" : "FlowField_TextureBuilder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quikgrid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quikgrid-Debug-f0834026c356b47f0152.json",
+					"name" : "quikgrid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stb-Debug-6fe7e701aa1ffb393983.json",
+					"name" : "stb",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/soku/Desktop/FlowField_TextureBuilder/cmake-build-debug",
+		"source" : "/Users/soku/Desktop/FlowField_TextureBuilder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
